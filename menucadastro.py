@@ -7,7 +7,7 @@ while op != 5:
     print('1> cadastrar\n2> Adicionar cartel\n3> Editar cartel\n4> Mostrar\n5> Sair do programa')
     op = int (input('EScolha uma das opções: '))
     if op == 1:
-        nome: str = str(input('nome '))
+        nome = str(input('nome '))
         estilo = str(input('estilo de luta '))
         idade = int(input('idade '))
         altura = float(input('altura '))
