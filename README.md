@@ -1,2 +1,4 @@
 # Cadastro Fight
- Meu primeiro
+ Meu primeiro:
+modelo Para cadastrar as lutas e os dados dos lutadores
+
